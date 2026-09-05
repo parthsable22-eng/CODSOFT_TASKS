@@ -1,0 +1,482 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Revenue,City,Payment_Method,Order_Status,Customer_Age,Sales_Channel
+ORD0362,2025-04-25,C1081,Priya,PRINTER,Office,2.0,9999.0,19998.0,Delhi,UPI,Completed,44.0,Online
+ORD0074,2025-02-06,C1019,Unknown,keyboard,accessories,3.0,999.0,2997.0,Ahmedabad,Net Banking,Cancelled,46.0,Online
+ORD0375,2025-06-15,C1144,Vikram,usb cable,Unknown,4.0,499.0,1996.0,Chennai,UPI,Completed,42.0,store
+ORD0156,2025-06-13,C1203,Rahul,USB Cable,Accessories,7.0,299.0,2093.0,Kolkata,Debit Card,Pending,65.0,Store
+ORD0105,2025-02-01,C1243,Anjali,Tablet,Electronics,5.0,9999.0,49995.0,Hyderabad,Net Banking,Completed,21.0,online
+ORD0395,2025-01-02,C1081,Unknown,monitor,Electronics,7.0,8999.0,62993.0,Kolkata,Debit Card,Completed,41.0,Store
+ORD0378,2025-03-09,C1034,Amit,Tablet,Electronics,5.0,24999.0,124995.0,Pune,Cash,Cancelled,27.0,Online
+ORD0125,2025-04-05,C1107,Rohit,Tablet,electronics,7.0,24999.0,174993.0,Delhi,Debit Card,Pending,57.0,store
+ORD0069,2025-06-11,C1176,Rahul,printer,Office,2.0,14999.0,29998.0,Ahmedabad,Debit Card,Completed,33.0,Online
+ORD0451,2025-06-16,C1191,Karan,Webcam,accessories,5.0,1999.0,9995.0,Hyderabad,UPI,Pending,26.0,online
+ORD0010,2025-05-07,C1024,Unknown,Keyboard,Accessories,3.0,1499.0,4497.0,Bangalore,Cash,Pending,22.0,store
+ORD0195,2025-04-09,C1061,Anjali,Keyboard,accessories,1.0,999.0,999.0,Chennai,Net Banking,Cancelled,54.0,Online
+ORD0407,2025-05-27,C1038,Rahul,headphones,accessories,3.0,999.0,2997.0,Bangalore,Net Banking,Completed,56.0,ONLINE
+ORD0085,2025-03-30,C1086,Karan,HEADPHONES,accessories,8.0,3999.0,31992.0,Pune,Credit Card,Cancelled,42.0,ONLINE
+ORD0372,2025-01-30,C1195,Neha,WEBCAM,Accessories,6.0,2999.0,17994.0,Ahmedabad,Cash,Cancelled,65.0,ONLINE
+ORD0389,2025-02-10,C1137,Sneha,tablet,Electronics,1.0,15999.0,15999.0,Kolkata,Net Banking,Cancelled,58.0,Store
+ORD0433,2025-05-29,C1026,Neha,Laptop,Electronics,4.0,72000.0,288000.0,Chennai,Credit Card,Pending,34.0,Store
+ORD0231,2025-01-12,C1001,Unknown,smartphone,Electronics,7.0,25000.0,175000.0,Unknown,Credit Card,Cancelled,46.0,ONLINE
+ORD0317,2025-05-25,C1016,Amit,Mouse,Accessories,4.0,599.0,2396.0,Pune,Net Banking,Completed,55.0,Store
+ORD0409,2025-02-12,C1186,Arjun,Headphones,accessories,3.0,2499.0,7497.0,Ahmedabad,Net Banking,Completed,32.0,store
+ORD0390,2025-05-22,C1224,Karan,mouse,Unknown,4.0,399.0,2394.0,Delhi,UPI,Pending,56.0,store
+ORD0033,2025-03-20,C1094,Rahul,Tablet,Electronics,3.0,9999.0,29997.0,Hyderabad,UPI,Cancelled,42.0,store
+ORD0281,2025-02-27,C1083,Sneha,HEADPHONES,Accessories,1.0,3999.0,3999.0,Pune,Debit Card,Completed,22.0,ONLINE
+ORD0357,2025-04-08,C1200,Neha,Printer,Office,3.0,14999.0,44997.0,Bangalore,Cash,Completed,25.0,store
+ORD0077,2025-02-16,C1150,Vikram,WEBCAM,Accessories,8.0,1999.0,15992.0,Jaipur,Unknown,Completed,39.0,online
+ORD0462,2025-05-26,C1048,Karan,Mouse,accessories,8.0,399.0,3192.0,Jaipur,Debit Card,Completed,56.0,ONLINE
+ORD0212,2025-01-21,C1237,Anjali,Keyboard,Accessories,6.0,1499.0,8994.0,Lucknow,Credit Card,Completed,35.0,store
+ORD0102,2025-01-10,C1078,Anjali,Smartphone,Electronics,3.0,12000.0,36000.0,Hyderabad,Net Banking,Pending,42.0,store
+ORD0335,2025-03-23,C1175,Amit,USB Cable,Accessories,7.0,499.0,3493.0,Jaipur,Debit Card,Cancelled,44.0,store
+ORD0476,2025-05-27,C1103,Pooja,mouse,Accessories,5.0,399.0,1995.0,Mumbai,Debit Card,Completed,48.0,Store
+ORD0276,2025-04-05,C1225,Karan,webcam,accessories,5.0,1299.0,6495.0,Mumbai,Cash,Pending,65.0,online
+ORD0441,2025-02-11,C1088,Sneha,Tablet,electronics,2.0,9999.0,19998.0,Chennai,Debit Card,Pending,59.0,store
+ORD0174,2025-04-01,C1013,Rahul,Keyboard,accessories,4.0,1499.0,5996.0,Ahmedabad,Unknown,Cancelled,52.0,Online
+ORD0003,2025-02-10,C1179,Vikram,USB Cable,accessories,5.0,199.0,995.0,Bangalore,Credit Card,Completed,39.0,Online
+ORD0334,2025-06-17,C1183,Arjun,Monitor,Electronics,5.0,12999.0,64995.0,Unknown,Net Banking,Completed,33.0,Online
+ORD0410,2025-01-05,C1052,Karan,TABLET,Electronics,3.0,9999.0,29997.0,Ahmedabad,UPI,Pending,48.0,ONLINE
+ORD0071,2025-06-08,C1016,Pooja,Tablet,Electronics,4.0,24999.0,124995.0,Hyderabad,Debit Card,Cancelled,23.0,Store
+ORD0210,2025-04-17,C1105,Amit,Tablet,electronics,6.0,24999.0,149994.0,Bangalore,Net Banking,Completed,33.0,Store
+ORD0064,2025-05-21,C1085,Neha,MONITOR,electronics,7.0,18999.0,132993.0,Unknown,Debit Card,Pending,25.0,Store
+ORD0385,2025-05-18,C1213,Meera,TABLET,Electronics,2.0,9999.0,19998.0,Mumbai,Credit Card,Completed,47.0,online
+ORD0094,2025-04-19,C1177,Rohit,USB CABLE,accessories,5.0,499.0,2495.0,Hyderabad,Cash,Completed,48.0,Online
+ORD0236,2025-03-27,C1216,Pooja,MOUSE,accessories,1.0,599.0,599.0,Jaipur,Debit Card,Completed,42.0,ONLINE
+ORD0186,2025-05-24,C1240,Meera,Monitor,electronics,8.0,12999.0,103992.0,Mumbai,Net Banking,Cancelled,52.0,store
+ORD0034,2025-02-11,C1250,Amit,USB CABLE,Accessories,3.0,199.0,597.0,Bangalore,Debit Card,Completed,44.0,Store
+ORD0078,2025-04-16,C1178,Unknown,Smartphone,Electronics,3.0,25000.0,75000.0,Kolkata,Net Banking,Completed,47.0,Online
+ORD0001,2025-03-04,C1058,Amit,Smartphone,Electronics,3.0,25000.0,25000.0,Lucknow,UPI,Pending,45.0,Online
+ORD0012,2025-02-10,C1117,Rahul,Smartphone,Electronics,5.0,35000.0,175000.0,Bangalore,Net Banking,Completed,58.0,online
+ORD0416,2025-04-05,C1144,Karan,WEBCAM,accessories,8.0,1299.0,10392.0,Chennai,Net Banking,Cancelled,63.0,store
+ORD0023,2025-04-19,C1179,Meera,MOUSE,Accessories,8.0,599.0,4792.0,Hyderabad,Debit Card,Pending,21.0,ONLINE
+ORD0073,2025-04-27,C1019,Arjun,mouse,accessories,5.0,999.0,4995.0,Ahmedabad,Credit Card,Completed,25.0,ONLINE
+ORD0183,2025-09-05,C1199,Pooja,TABLET,Electronics,4.0,15999.0,63996.0,Delhi,Credit Card,Pending,31.0,ONLINE
+ORD0132,2025-06-04,C1122,Karan,printer,Office,4.0,9999.0,39996.0,Jaipur,UPI,Completed,120.0,Online
+ORD0411,2025-05-09,C1193,Priya,USB Cable,accessories,1.0,499.0,499.0,Bangalore,Net Banking,Pending,18.0,store
+ORD0194,2025-05-12,C1084,Priya,HEADPHONES,Accessories,7.0,3999.0,27993.0,Mumbai,Credit Card,Pending,48.0,online
+ORD0056,2025-06-05,C1156,Meera,Mouse,Accessories,6.0,399.0,2394.0,Chennai,UPI,Pending,19.0,online
+ORD0149,2025-05-01,C1012,Arjun,WEBCAM,accessories,1.0,1999.0,1999.0,Chennai,UPI,Cancelled,22.0,online
+ORD0019,2025-01-25,C1169,Vikram,Tablet,electronics,4.0,9999.0,39996.0,Kolkata,Cash,Completed,64.0,Online
+ORD0205,2025-05-20,C1109,Karan,MOUSE,Accessories,8.0,999.0,7992.0,Hyderabad,Cash,Cancelled,27.0,online
+ORD0079,2025-01-30,C1249,Vikram,Monitor,Electronics,5.0,12999.0,64995.0,Lucknow,Cash,Completed,21.0,Store
+ORD0425,2025-05-04,C1198,Sneha,Printer,office,7.0,14999.0,104993.0,Jaipur,Net Banking,Completed,19.0,store
+ORD0263,2025-06-24,C1196,Rahul,Headphones,Accessories,8.0,2499.0,19992.0,Jaipur,UPI,Completed,28.0,store
+ORD0324,2025-05-02,C1236,Rohit,Keyboard,Accessories,1.0,1499.0,1499.0,Pune,Debit Card,Cancelled,35.0,store
+ORD0351,2025-04-15,C1076,Amit,Keyboard,Accessories,6.0,1499.0,8994.0,Jaipur,Credit Card,Cancelled,48.0,online
+ORD0080,2025-05-08,C1161,Anjali,Webcam,Accessories,6.0,2999.0,11997.0,Chennai,Net Banking,Pending,36.0,store
+ORD0040,2025-04-05,C1179,Rohit,mouse,Accessories,7.0,599.0,4193.0,Kolkata,Cash,Cancelled,65.0,Store
+ORD0452,2025-03-11,C1180,Pooja,SMARTPHONE,Electronics,8.0,35000.0,280000.0,Pune,UPI,Pending,21.0,ONLINE
+ORD0047,2025-03-12,C1197,Karan,MOUSE,Accessories,4.0,3999.0,3996.0,Hyderabad,Debit Card,Completed,22.0,online
+ORD0239,2025-04-29,C1242,Meera,webcam,accessories,1.0,2999.0,2999.0,Chennai,UPI,Completed,44.0,store
+ORD0392,2025-01-30,C1047,Arjun,Keyboard,Accessories,5.0,699.0,3495.0,Jaipur,Net Banking,Completed,36.0,Online
+ORD0353,2025-03-17,C1068,Anjali,Mouse,Accessories,4.0,599.0,2396.0,Bangalore,UPI,Completed,36.0,online
+ORD0342,2025-01-23,C1034,Pooja,HEADPHONES,Accessories,3.0,45000.0,11997.0,Kolkata,Cash,Completed,48.0,store
+ORD0278,2025-03-10,C1188,Unknown,Headphones,accessories,6.0,1499.0,8994.0,Kolkata,Debit Card,Pending,22.0,online
+ORD0291,2025-03-25,C1038,Priya,usb cable,accessories,1.0,199.0,199.0,Kolkata,Net Banking,Completed,61.0,online
+ORD0318,2025-05-14,C1108,Karan,WEBCAM,Accessories,1.0,1999.0,1999.0,Hyderabad,Cash,Cancelled,23.0,store
+ORD0305,2025-02-10,C1188,Vikram,MOUSE,Accessories,6.0,399.0,2394.0,Pune,Credit Card,Cancelled,53.0,ONLINE
+ORD0269,2025-02-24,C1161,Unknown,printer,office,6.0,14999.0,89994.0,Ahmedabad,Cash,Completed,31.0,Online
+ORD0070,2025-06-02,C1203,Pooja,webcam,Accessories,4.0,2999.0,20993.0,Kolkata,Cash,Completed,37.0,ONLINE
+ORD0456,2025-01-09,C1051,Anjali,Tablet,Electronics,8.0,9999.0,79992.0,Hyderabad,Cash,Completed,61.0,online
+ORD0466,2025-05-05,C1050,Priya,Laptop,Electronics,4.0,45000.0,180000.0,Kolkata,Cash,Pending,57.0,ONLINE
+ORD0155,2025-06-04,C1184,Vikram,mouse,Accessories,5.0,599.0,2995.0,Jaipur,Debit Card,Completed,20.0,online
+ORD0083,2025-04-27,C1142,Amit,PRINTER,Office,200.0,6999.0,55992.0,Ahmedabad,Net Banking,Cancelled,26.0,Online
+ORD0478,2025-06-12,C1200,Arjun,SMARTPHONE,Electronics,4.0,12000.0,48000.0,Unknown,Net Banking,Completed,38.0,ONLINE
+ORD0173,2025-12-05,C1120,Unknown,Keyboard,accessories,3.0,999.0,2997.0,Delhi,UPI,Completed,50.0,store
+ORD0322,2025-05-25,C1200,Priya,USB Cable,Accessories,2.0,199.0,398.0,Pune,Cash,Cancelled,42.0,store
+ORD0091,2025-04-06,C1111,Amit,laptop,Electronics,4.0,65000.0,325000.0,Kolkata,Net Banking,Cancelled,42.0,Store
+ORD0181,2025-06-17,C1201,Pooja,usb cable,Accessories,8.0,299.0,2392.0,Delhi,Net Banking,Completed,28.0,ONLINE
+ORD0415,2025-05-18,C1109,Unknown,Tablet,Electronics,5.0,15999.0,79995.0,Chennai,Cash,Completed,31.0,store
+ORD0313,2025-02-18,C1105,Meera,Smartphone,Electronics,6.0,18000.0,108000.0,Chennai,Debit Card,Pending,24.0,Online
+ORD0279,2025-04-27,C1131,Neha,USB Cable,accessories,2.0,299.0,598.0,Ahmedabad,Credit Card,Cancelled,28.0,online
+ORD0382,2025-03-03,C1232,Arjun,smartphone,Electronics,6.0,35000.0,210000.0,Pune,Cash,Completed,25.0,store
+ORD0473,2025-03-07,C1093,Anjali,KEYBOARD,accessories,7.0,1499.0,10493.0,Delhi,UPI,Cancelled,56.0,Online
+ORD0363,2025-06-04,C1247,Pooja,Webcam,Accessories,1.0,1299.0,1299.0,Lucknow,Credit Card,Cancelled,60.0,store
+ORD0325,2025-04-05,C1250,Meera,SMARTPHONE,electronics,4.0,18000.0,72000.0,Chennai,Cash,Pending,42.0,Online
+ORD0432,2025-06-25,C1199,Amit,WEBCAM,Accessories,6.0,1999.0,11994.0,Lucknow,Cash,Cancelled,62.0,Online
+ORD0348,2025-02-01,C1141,Rohit,TABLET,Electronics,8.0,15999.0,127992.0,Bangalore,Credit Card,Cancelled,61.0,Online
+ORD0087,2025-05-09,C1248,Pooja,Printer,Office,1.0,6999.0,6999.0,Jaipur,UPI,Pending,47.0,Online
+ORD0076,2025-01-24,C1059,Arjun,USB Cable,Accessories,5.0,199.0,995.0,Chennai,Net Banking,Completed,29.0,store
+ORD0439,2025-05-28,C1148,Arjun,smartphone,electronics,6.0,18000.0,108000.0,Pune,Debit Card,Cancelled,50.0,store
+ORD0016,2025-04-26,C1031,Sneha,monitor,Electronics,8.0,18999.0,151992.0,Pune,UPI,Pending,53.0,Store
+ORD0250,2025-02-04,C1081,Priya,usb cable,accessories,2.0,12000.0,998.0,Mumbai,Credit Card,Cancelled,62.0,Store
+ORD0434,2025-03-29,C1094,Unknown,MOUSE,accessories,8.0,999.0,7992.0,Hyderabad,Cash,Cancelled,41.0,online
+ORD0020,2025-03-28,C1205,Priya,smartphone,Electronics,1.0,35000.0,35000.0,Hyderabad,Net Banking,Completed,26.0,store
+ORD0323,2025-02-14,C1071,Vikram,usb cable,Accessories,8.0,199.0,1592.0,Ahmedabad,Cash,Completed,43.0,online
+ORD0333,2025-05-11,C1170,Neha,USB Cable,accessories,2.0,199.0,398.0,Mumbai,Cash,Completed,39.0,online
+ORD0057,2025-02-20,C1020,Pooja,usb cable,Accessories,7.0,299.0,2093.0,Chennai,Net Banking,Completed,25.0,ONLINE
+ORD0302,2025-03-21,C1045,Anjali,Keyboard,Accessories,8.0,1499.0,11992.0,Delhi,Credit Card,Pending,32.0,Online
+ORD0230,2025-04-08,C1183,Arjun,smartphone,Electronics,5.0,18000.0,90000.0,Kolkata,Debit Card,Cancelled,24.0,Online
+ORD0332,2025-03-31,C1118,Rohit,mouse,accessories,7.0,599.0,4193.0,Chennai,Net Banking,Completed,57.0,store
+ORD0133,2025-03-05,C1182,Anjali,WEBCAM,Accessories,3.0,1299.0,3897.0,Lucknow,Net Banking,Pending,41.0,online
+ORD0138,2025-01-26,C1130,Karan,Headphones,Accessories,2.0,2499.0,4998.0,Pune,Net Banking,Pending,56.0,store
+ORD0424,2025-01-19,C1129,Rohit,Tablet,Electronics,2.0,24999.0,49998.0,Lucknow,Debit Card,Pending,54.0,online
+ORD0336,2025-05-27,C1209,Sneha,Tablet,Electronics,1.0,24999.0,24999.0,Hyderabad,Net Banking,Cancelled,48.0,online
+ORD0026,2025-06-18,C1150,Pooja,USB Cable,accessories,2.0,299.0,598.0,Hyderabad,Debit Card,Pending,34.0,store
+ORD0465,2025-04-15,C1165,Neha,USB Cable,Accessories,5.0,299.0,1495.0,Lucknow,UPI,Completed,26.0,Store
+ORD0282,2025-06-22,C1231,Unknown,monitor,Electronics,2.0,18999.0,37998.0,Lucknow,UPI,Completed,22.0,store
+ORD0248,2025-01-17,C1148,Priya,keyboard,accessories,5.0,1499.0,7495.0,Pune,Credit Card,Completed,42.0,online
+ORD0238,2025-04-07,C1072,Vikram,Printer,Office,4.0,9999.0,39996.0,Ahmedabad,Credit Card,Pending,52.0,Store
+ORD0118,2025-02-16,C1223,Amit,MONITOR,Electronics,6.0,8999.0,53994.0,Bangalore,UPI,Completed,65.0,ONLINE
+ORD0043,2025-06-22,C1080,Sneha,monitor,Electronics,2.0,8999.0,17998.0,Delhi,UPI,Pending,48.0,ONLINE
+ORD0221,2025-05-16,C1185,Rohit,Tablet,Electronics,1.0,9999.0,9999.0,Lucknow,Cash,Completed,29.0,Online
+ORD0177,2025-04-05,C1204,Neha,Headphones,Accessories,2.0,3999.0,7998.0,Hyderabad,Net Banking,Pending,43.0,ONLINE
+ORD0321,2025-06-29,C1160,Pooja,MOUSE,Accessories,8.0,399.0,3192.0,Kolkata,Credit Card,Pending,54.0,ONLINE
+ORD0012,2025-04-19,C1021,Vikram,monitor,Electronics,5.0,8999.0,44995.0,Chennai,Debit Card,Completed,23.0,online
+ORD0232,2025-01-07,C1023,Neha,Webcam,Accessories,3.0,1299.0,9093.0,Ahmedabad,Debit Card,Completed,42.0,Online
+ORD0228,2025-01-20,C1088,Pooja,SMARTPHONE,electronics,7.0,18000.0,126000.0,Delhi,Debit Card,Completed,46.0,store
+ORD0418,2025-04-10,C1247,Arjun,USB Cable,Accessories,1.0,199.0,199.0,Bangalore,Cash,Pending,45.0,Online
+ORD0204,2025-01-31,C1046,Karan,SMARTPHONE,Electronics,3.0,25000.0,75000.0,Bangalore,Credit Card,Completed,18.0,Online
+ORD0127,2025-01-20,C1131,Arjun,Keyboard,Accessories,6.0,699.0,4194.0,Lucknow,Credit Card,Completed,40.0,online
+ORD0330,2025-01-13,C1042,Pooja,mouse,Accessories,1.0,599.0,11997.0,Hyderabad,Credit Card,Cancelled,59.0,store
+ORD0032,2025-01-20,C1242,Meera,tablet,Electronics,1.0,9999.0,9999.0,Delhi,Debit Card,Pending,53.0,Store
+ORD0114,2025-01-24,C1111,Priya,Smartphone,Electronics,2.0,12000.0,24000.0,Lucknow,UPI,Pending,53.0,ONLINE
+ORD0471,2025-05-21,C1103,Karan,Smartphone,Electronics,3.0,18000.0,54000.0,Bangalore,Net Banking,Pending,46.0,online
+ORD0272,2025-05-07,C1099,Priya,mouse,accessories,1.0,399.0,399.0,Ahmedabad,UPI,Pending,18.0,online
+ORD0141,2025-04-08,C1129,Karan,PRINTER,Office,8.0,9999.0,79992.0,Hyderabad,Net Banking,Pending,34.0,Online
+ORD0058,2025-06-19,C1095,Priya,Laptop,Electronics,6.0,72000.0,432000.0,Kolkata,Cash,Completed,45.0,online
+ORD0193,2025-04-28,C1166,Rohit,monitor,Electronics,3.0,18999.0,56997.0,Pune,Debit Card,Pending,42.0,Store
+ORD0025,2025-06-22,C1221,Sneha,HEADPHONES,Accessories,2.0,999.0,1998.0,Ahmedabad,Credit Card,Pending,56.0,Online
+ORD0018,2025-06-21,C1125,Sneha,webcam,Accessories,4.0,1999.0,7996.0,Ahmedabad,Net Banking,Completed,33.0,store
+ORD0266,2025-01-20,C1034,Pooja,laptop,Electronics,4.0,72000.0,288000.0,Jaipur,UPI,Completed,62.0,online
+ORD0067,2025-05-22,C1075,Meera,mouse,Accessories,1.0,399.0,399.0,Jaipur,UPI,Completed,18.0,ONLINE
+ORD0209,2025-01-16,C1143,Pooja,tablet,Electronics,5.0,15999.0,79995.0,Kolkata,Net Banking,Completed,21.0,online
+ORD0480,2025-04-21,C1075,Vikram,webcam,Accessories,2.0,45000.0,2598.0,Pune,UPI,Completed,54.0,Online
+ORD0095,2025-04-02,C1148,Rohit,Keyboard,Accessories,7.0,1499.0,10493.0,Kolkata,Debit Card,Completed,54.0,Online
+ORD0254,2025-04-05,C1075,Rahul,Headphones,Accessories,2.0,999.0,1998.0,Lucknow,Debit Card,Pending,5.0,ONLINE
+ORD0267,2025-05-03,C1019,Sneha,SMARTPHONE,Electronics,7.0,18000.0,126000.0,Mumbai,UPI,Cancelled,41.0,online
+ORD0024,2025-03-22,C1015,Rahul,WEBCAM,Accessories,4.0,2999.0,2999.0,Unknown,Credit Card,Completed,50.0,Online
+ORD0223,2025-02-27,C1077,Arjun,Printer,Office,4.0,14999.0,59996.0,Delhi,UPI,Completed,42.0,store
+ORD0262,2025-04-20,C1212,Sneha,SMARTPHONE,electronics,7.0,18000.0,126000.0,Pune,Debit Card,Cancelled,53.0,ONLINE
+ORD0427,2025-01-24,C1103,Arjun,Mouse,Accessories,4.0,599.0,2396.0,Lucknow,Credit Card,Completed,38.0,online
+ORD0006,2025-04-08,C1072,Anjali,Smartphone,Electronics,4.0,12000.0,48000.0,Pune,Debit Card,Pending,60.0,online
+ORD0117,2025-06-09,C1158,Arjun,Keyboard,Accessories,7.0,1499.0,10493.0,Chennai,UPI,Pending,35.0,online
+ORD0046,2025-04-24,C1157,Meera,HEADPHONES,Accessories,8.0,2499.0,19992.0,Jaipur,Credit Card,Cancelled,48.0,store
+ORD0017,2025-01-19,C1182,Arjun,USB Cable,Accessories,4.0,199.0,796.0,Mumbai,UPI,Completed,39.0,Online
+ORD0463,2025-04-26,C1076,Rohit,Headphones,accessories,2.0,1499.0,2998.0,Delhi,Net Banking,Completed,64.0,Store
+ORD0358,2025-03-08,C1168,Neha,Printer,Office,1.0,6999.0,6999.0,Lucknow,Net Banking,Cancelled,54.0,Store
+ORD0004,2025-04-02,C1217,Neha,Smartphone,Electronics,7.0,12000.0,84000.0,Jaipur,Net Banking,Completed,42.0,Online
+ORD0219,2025-02-05,C1216,Arjun,laptop,Electronics,1.0,72000.0,72000.0,Bangalore,UPI,Pending,42.0,store
+ORD0406,2025-02-23,C1152,Amit,PRINTER,Office,8.0,9999.0,79992.0,Hyderabad,UPI,Pending,54.0,ONLINE
+ORD0061,2025-02-16,C1125,Sneha,Laptop,electronics,8.0,65000.0,520000.0,Pune,Debit Card,Pending,62.0,online
+ORD0111,2025-01-17,C1033,Rohit,Smartphone,electronics,6.0,18000.0,108000.0,Ahmedabad,Net Banking,Cancelled,47.0,ONLINE
+ORD0319,2025-04-25,C1045,Amit,laptop,Electronics,3.0,3999.0,135000.0,Bangalore,UPI,Completed,23.0,store
+ORD0429,2025-03-05,C1215,Pooja,Keyboard,Accessories,4.0,45000.0,2796.0,Mumbai,UPI,Completed,61.0,store
+ORD0030,2025-06-04,C1054,Meera,Headphones,Accessories,5.0,2499.0,12495.0,Chennai,Net Banking,Completed,34.0,Online
+ORD0438,2025-03-27,C1067,Neha,Printer,Office,2.0,9999.0,19998.0,Lucknow,Debit Card,Cancelled,19.0,store
+ORD0472,2025-04-16,C1196,Arjun,MONITOR,Electronics,6.0,12999.0,77994.0,Pune,Net Banking,Pending,54.0,ONLINE
+ORD0027,2025-03-22,C1238,Priya,Headphones,accessories,5.0,3999.0,19995.0,Ahmedabad,Net Banking,Completed,22.0,ONLINE
+ORD0412,2025-04-13,C1069,Priya,keyboard,Accessories,1.0,999.0,999.0,Pune,Credit Card,Cancelled,49.0,store
+ORD0454,2025-04-18,C1080,Anjali,Printer,office,4.0,9999.0,39996.0,Delhi,Debit Card,Completed,27.0,Online
+ORD0109,2025-05-12,C1152,Priya,PRINTER,Office,8.0,9999.0,79992.0,Hyderabad,Net Banking,Completed,999.0,ONLINE
+ORD0038,2025-06-05,C1131,Priya,MONITOR,Electronics,6.0,3999.0,77994.0,Hyderabad,Debit Card,Completed,63.0,store
+ORD0158,2025-04-26,C1243,Neha,USB Cable,accessories,3.0,499.0,1497.0,Unknown,Net Banking,Pending,51.0,online
+ORD0119,2025-04-27,C1088,Amit,Keyboard,accessories,7.0,999.0,6993.0,Pune,Net Banking,Pending,23.0,Online
+ORD0115,2025-04-01,C1224,Arjun,MONITOR,Electronics,2.0,12999.0,25998.0,Delhi,Debit Card,Pending,37.0,online
+ORD0176,2025-03-15,C1019,Vikram,KEYBOARD,Accessories,6.0,1499.0,8994.0,Chennai,Net Banking,Cancelled,57.0,Online
+ORD0374,2025-01-16,C1177,Rohit,mouse,Accessories,5.0,399.0,1995.0,Delhi,Debit Card,Completed,46.0,Online
+ORD0182,2025-06-24,C1063,Rahul,USB Cable,Accessories,7.0,199.0,1393.0,Delhi,Cash,Cancelled,44.0,Store
+ORD0145,2025-05-01,C1115,Pooja,Printer,Office,3.0,14999.0,44997.0,Delhi,Debit Card,Pending,27.0,ONLINE
+ORD0370,2025-03-17,C1116,Amit,mouse,accessories,7.0,599.0,4193.0,Ahmedabad,Net Banking,Cancelled,62.0,ONLINE
+ORD0391,2025-02-23,C1192,Meera,Webcam,Accessories,2.0,1999.0,3998.0,Kolkata,Net Banking,Pending,28.0,Store
+ORD0196,2025-03-02,C1016,Arjun,Mouse,accessories,6.0,999.0,5994.0,Chennai,Credit Card,Completed,61.0,ONLINE
+ORD0405,2025-02-08,C1048,Amit,Webcam,Accessories,5.0,3999.0,6495.0,Mumbai,Credit Card,Completed,39.0,Online
+ORD0276,2025-03-03,C1015,Sneha,Mouse,accessories,7.0,999.0,6993.0,Mumbai,Cash,Pending,56.0,Online
+ORD0455,2025-05-20,C1121,Amit,mouse,accessories,7.0,399.0,2793.0,Unknown,UPI,Completed,63.0,Store
+ORD0142,2025-01-27,C1183,Karan,Printer,office,6.0,14999.0,89994.0,Mumbai,Credit Card,Cancelled,46.0,ONLINE
+ORD0366,2025-02-05,C1211,Meera,LAPTOP,Electronics,3.0,72000.0,216000.0,Chennai,Net Banking,Pending,30.0,Online
+ORD0068,2025-04-23,C1088,Amit,Mouse,accessories,8.0,599.0,4792.0,Jaipur,UPI,Completed,22.0,store
+ORD0211,2025-01-15,C1144,Vikram,MOUSE,Accessories,3.0,599.0,1797.0,Lucknow,Credit Card,Completed,33.0,online
+ORD0169,2025-06-10,C1140,Rohit,Tablet,electronics,1.0,15999.0,15999.0,Hyderabad,Cash,Cancelled,47.0,Online
+ORD0218,2025-04-01,C1044,Amit,PRINTER,Office,3.0,14999.0,44997.0,Lucknow,UPI,Pending,20.0,Online
+ORD0376,2025-03-06,C1052,Unknown,MONITOR,Electronics,1.0,8999.0,8999.0,Pune,Net Banking,Pending,65.0,ONLINE
+ORD0401,2025-05-05,C1060,Priya,Monitor,electronics,1.0,8999.0,8999.0,Hyderabad,UPI,Cancelled,31.0,ONLINE
+ORD0273,2025-05-26,C1108,Neha,monitor,electronics,3.0,12999.0,38997.0,Mumbai,UPI,Pending,22.0,Online
+ORD0110,2025-01-08,C1016,Anjali,MOUSE,accessories,8.0,999.0,7992.0,Mumbai,Cash,Cancelled,46.0,Online
+ORD0249,2025-04-10,C1157,Vikram,Printer,office,6.0,14999.0,89994.0,Pune,Cash,Pending,29.0,online
+ORD0146,2025-03-15,C1061,Rohit,USB Cable,Accessories,7.0,199.0,1393.0,Hyderabad,Cash,Cancelled,57.0,store
+ORD0093,2025-01-03,C1231,Anjali,Printer,Office,5.0,14999.0,74995.0,Lucknow,Credit Card,Completed,46.0,online
+ORD0153,2025-04-05,C1112,Vikram,MONITOR,electronics,5.0,8999.0,44995.0,Pune,Credit Card,Completed,62.0,store
+ORD0368,2025-01-02,C1136,Meera,USB Cable,Accessories,3.0,299.0,897.0,Kolkata,Net Banking,Completed,50.0,Store
+ORD0468,2025-04-05,C1204,Meera,Laptop,Electronics,4.0,72000.0,432000.0,Chennai,Net Banking,Completed,64.0,Online
+ORD0084,2025-05-10,C1069,Rahul,Mouse,Accessories,7.0,599.0,4193.0,Chennai,Net Banking,Pending,42.0,store
+ORD0246,2025-02-10,C1085,Karan,WEBCAM,accessories,3.0,2999.0,8997.0,Hyderabad,Cash,Cancelled,29.0,Store
+ORD0166,2025-02-11,C1083,Meera,headphones,accessories,5.0,1499.0,7495.0,Lucknow,Debit Card,Completed,23.0,online
+ORD0164,2025-04-16,C1197,Vikram,Tablet,Electronics,8.0,24999.0,199992.0,Pune,UPI,Completed,47.0,ONLINE
+ORD0200,2025-02-22,C1184,Pooja,PRINTER,Office,2.0,14999.0,29998.0,Lucknow,Cash,Completed,21.0,store
+ORD0229,2025-04-07,C1111,Amit,KEYBOARD,Accessories,6.0,1499.0,11997.0,Ahmedabad,Debit Card,Completed,33.0,Online
+ORD0075,2025-04-14,C1242,Rohit,PRINTER,office,5.0,14999.0,74995.0,Mumbai,Net Banking,Completed,45.0,online
+ORD0479,2025-05-09,C1179,Sneha,usb cable,Accessories,3.0,299.0,897.0,Kolkata,Cash,Completed,56.0,ONLINE
+ORD0359,2025-06-19,C1187,Sneha,MONITOR,electronics,2.0,12999.0,25998.0,Kolkata,Credit Card,Completed,53.0,ONLINE
+ORD0251,2025-06-02,C1036,Pooja,WEBCAM,accessories,7.0,1999.0,13993.0,Bangalore,Cash,Cancelled,52.0,Store
+ORD0120,2025-06-22,C1021,Rohit,HEADPHONES,Accessories,3.0,999.0,2997.0,Unknown,Cash,Pending,46.0,store
+ORD0311,2025-03-23,C1067,Priya,Laptop,electronics,5.0,45000.0,225000.0,Bangalore,Cash,Pending,64.0,Online
+ORD0300,2025-06-18,C1062,Rohit,Headphones,Accessories,2.0,1499.0,2998.0,Ahmedabad,Cash,Cancelled,29.0,Store
+ORD0256,2025-01-09,C1116,Rohit,Smartphone,Electronics,4.0,25000.0,100000.0,Jaipur,UPI,Completed,33.0,Store
+ORD0355,2025-03-29,C1047,Priya,MOUSE,accessories,2.0,599.0,1198.0,Jaipur,Debit Card,Completed,42.0,store
+ORD0400,2025-02-05,C1115,Unknown,usb cable,Accessories,3.0,499.0,1497.0,Ahmedabad,Credit Card,Cancelled,64.0,store
+ORD0226,2025-03-22,C1005,Sneha,usb cable,Accessories,1.0,199.0,199.0,Kolkata,UPI,Cancelled,28.0,ONLINE
+ORD0354,2025-01-30,C1025,Rahul,Monitor,Electronics,7.0,18999.0,132993.0,Bangalore,Debit Card,Cancelled,46.0,ONLINE
+ORD0235,2025-03-05,C1185,Arjun,SMARTPHONE,Electronics,6.0,25000.0,150000.0,Ahmedabad,Credit Card,Completed,24.0,Store
+ORD0383,2025-05-13,C1211,Neha,MOUSE,accessories,5.0,399.0,1995.0,Delhi,Debit Card,Cancelled,30.0,online
+ORD0275,2025-01-22,C1080,Priya,smartphone,Electronics,3.0,25000.0,75000.0,Lucknow,Debit Card,Completed,55.0,Online
+ORD0037,2025-01-30,C1225,Rohit,webcam,Accessories,6.0,1299.0,11997.0,Chennai,UPI,Completed,56.0,store
+ORD0197,2025-03-17,C1095,Pooja,mouse,Accessories,2.0,999.0,1998.0,Bangalore,Cash,Pending,47.0,ONLINE
+ORD0140,2025-04-25,C1060,Karan,printer,office,5.0,14999.0,74995.0,Jaipur,Credit Card,Cancelled,61.0,ONLINE
+ORD0365,2025-06-18,C1057,Rahul,Printer,office,2.0,6999.0,13998.0,Chennai,Net Banking,Pending,41.0,Online
+ORD0245,2025-04-05,C1077,Rahul,Printer,Office,8.0,9999.0,79992.0,Pune,UPI,Cancelled,28.0,Store
+ORD0440,2025-06-07,C1074,Anjali,printer,Office,2.0,9999.0,19998.0,Pune,Cash,Cancelled,57.0,ONLINE
+ORD0287,2025-01-22,C1149,Priya,tablet,Electronics,6.0,15999.0,95994.0,Kolkata,UPI,Pending,54.0,Online
+ORD0060,2025-01-23,C1072,Anjali,mouse,accessories,6.0,399.0,2394.0,Ahmedabad,Net Banking,Cancelled,42.0,online
+ORD0112,2025-06-29,C1030,Arjun,usb cable,accessories,4.0,199.0,1393.0,Jaipur,Credit Card,Completed,39.0,store
+ORD0090,2025-01-26,C1195,Arjun,Keyboard,accessories,2.0,999.0,1998.0,Bangalore,Debit Card,Completed,20.0,online
+ORD0437,2025-03-18,C1065,Karan,Webcam,accessories,6.0,1999.0,11994.0,Mumbai,Credit Card,Completed,31.0,online
+ORD0007,2025-02-11,C1119,Vikram,Smartphone,Electronics,3.0,18000.0,54000.0,Lucknow,Credit Card,Cancelled,38.0,Online
+ORD0361,2025-02-27,C1141,Arjun,MOUSE,accessories,1.0,999.0,999.0,Hyderabad,UPI,Completed,46.0,ONLINE
+ORD0347,2025-06-09,C1013,Pooja,Tablet,Electronics,5.0,24999.0,124995.0,Mumbai,Unknown,Completed,62.0,Online
+ORD0339,2025-04-05,C1121,Rahul,Mouse,accessories,5.0,599.0,2995.0,Hyderabad,Net Banking,Completed,61.0,store
+ORD0159,2025-03-13,C1064,Priya,Tablet,Electronics,4.0,24999.0,149994.0,Unknown,Cash,Pending,42.0,ONLINE
+ORD0151,2025-01-17,C1184,Anjali,Printer,office,3.0,6999.0,20997.0,Hyderabad,UPI,Completed,30.0,Online
+ORD0178,2025-02-05,C1183,Neha,LAPTOP,Electronics,1.0,45000.0,45000.0,Jaipur,Credit Card,Pending,50.0,Store
+ORD0394,2025-04-26,C1085,Pooja,Keyboard,Accessories,6.0,999.0,5994.0,Ahmedabad,Credit Card,Pending,54.0,online
+ORD0185,2025-03-05,C1072,Karan,USB Cable,Accessories,8.0,199.0,1592.0,Chennai,Debit Card,Cancelled,31.0,store
+ORD0450,2025-02-11,C1184,Meera,TABLET,electronics,7.0,9999.0,69993.0,Hyderabad,Debit Card,Completed,42.0,Store
+ORD0011,2025-03-06,C1249,Karan,Tablet,Electronics,8.0,24999.0,199992.0,Mumbai,Net Banking,Completed,35.0,online
+ORD0381,2025-03-26,C1085,Neha,Keyboard,Accessories,4.0,1499.0,5996.0,Ahmedabad,Net Banking,Completed,53.0,Online
+ORD0104,2025-03-02,C1219,Neha,Keyboard,Accessories,8.0,999.0,7992.0,Pune,Net Banking,Cancelled,40.0,Online
+ORD0082,2025-01-31,C1166,Amit,KEYBOARD,Accessories,2.0,999.0,1998.0,Chennai,Net Banking,Cancelled,35.0,store
+ORD0039,2025-04-21,C1018,Arjun,Laptop,Electronics,4.0,65000.0,260000.0,Pune,UPI,Cancelled,37.0,ONLINE
+ORD0315,2025-04-05,C1075,Priya,LAPTOP,Electronics,4.0,52000.0,208000.0,Chennai,Cash,Completed,49.0,online
+ORD0168,2025-01-11,C1212,Rahul,USB Cable,Accessories,6.0,499.0,2994.0,Ahmedabad,Debit Card,Cancelled,31.0,ONLINE
+ORD0470,2025-05-23,C1107,Meera,USB Cable,Accessories,3.0,499.0,1497.0,Ahmedabad,Debit Card,Cancelled,47.0,store
+ORD0297,2025-04-09,C1036,Vikram,laptop,Electronics,2.0,65000.0,130000.0,Lucknow,Credit Card,Cancelled,52.0,Online
+ORD0475,2025-01-10,C1118,Neha,usb cable,Accessories,3.0,199.0,597.0,Chennai,Debit Card,Pending,33.0,Store
+ORD0199,2025-01-29,C1016,Karan,monitor,Electronics,2.0,18999.0,37998.0,Lucknow,Credit Card,Pending,25.0,ONLINE
+ORD0298,2025-05-20,C1201,Anjali,Tablet,Electronics,6.0,12000.0,95994.0,Lucknow,Debit Card,Completed,35.0,Store
+ORD0417,2025-04-25,C1201,Meera,headphones,Accessories,2.0,1499.0,2998.0,Hyderabad,Net Banking,Completed,39.0,ONLINE
+ORD0147,2025-06-02,C1138,Rahul,smartphone,Electronics,2.0,35000.0,70000.0,Bangalore,Debit Card,Completed,18.0,ONLINE
+ORD0393,2025-05-29,C1125,Neha,Mouse,Accessories,2.0,399.0,798.0,Hyderabad,UPI,Cancelled,57.0,Online
+ORD0057,2025-04-17,C1048,Arjun,Monitor,Electronics,4.0,18999.0,75996.0,Pune,UPI,Pending,52.0,ONLINE
+ORD0448,2025-05-14,C1209,Amit,Mouse,accessories,1.0,399.0,399.0,Jaipur,Net Banking,Completed,62.0,store
+ORD0288,2025-03-16,C1067,Neha,TABLET,Electronics,3.0,9999.0,29997.0,Pune,Debit Card,Completed,35.0,Store
+ORD0124,2025-04-12,C1221,Meera,Webcam,accessories,6.0,1299.0,7794.0,Delhi,Cash,Completed,38.0,ONLINE
+ORD0369,2025-02-02,C1027,Vikram,USB Cable,Accessories,3.0,499.0,1497.0,Kolkata,Cash,Pending,62.0,Store
+ORD0097,2025-04-23,C1009,Pooja,Smartphone,Electronics,1.0,25000.0,25000.0,Bangalore,UPI,Cancelled,38.0,store
+ORD0144,2025-04-06,C1058,Rahul,Keyboard,Accessories,7.0,699.0,4893.0,Pune,Credit Card,Pending,20.0,online
+ORD0240,2025-03-06,C1169,Amit,HEADPHONES,accessories,5.0,1499.0,7495.0,Mumbai,Cash,Pending,48.0,ONLINE
+ORD0443,2025-02-12,C1102,Unknown,Mouse,Accessories,2.0,399.0,798.0,Jaipur,Net Banking,Completed,19.0,store
+ORD0098,2025-05-19,C1225,Neha,Headphones,Accessories,4.0,1499.0,5996.0,Chennai,Cash,Completed,36.0,online
+ORD0408,2025-02-25,C1115,Pooja,LAPTOP,electronics,5.0,45000.0,225000.0,Bangalore,Credit Card,Completed,44.0,ONLINE
+ORD0123,2025-05-08,C1192,Vikram,monitor,Electronics,2.0,8999.0,17998.0,Kolkata,Net Banking,Cancelled,32.0,ONLINE
+ORD0184,2025-04-07,C1081,Amit,MONITOR,Electronics,8.0,18999.0,151992.0,Pune,Net Banking,Cancelled,61.0,online
+ORD0203,2025-06-14,C1187,Arjun,TABLET,electronics,3.0,9999.0,99999.0,Kolkata,Cash,Completed,42.0,store
+ORD0247,2025-06-07,C1227,Sneha,TABLET,Electronics,7.0,9999.0,69993.0,Kolkata,Cash,Completed,63.0,Store
+ORD0306,2025-05-31,C1209,Amit,MONITOR,electronics,4.0,18999.0,75996.0,Chennai,Credit Card,Pending,42.0,Online
+ORD0299,2025-01-08,C1230,Unknown,Laptop,electronics,6.0,52000.0,312000.0,Lucknow,Debit Card,Completed,55.0,Store
+ORD0352,2025-06-21,C1023,Priya,KEYBOARD,Accessories,1.0,699.0,699.0,Mumbai,Net Banking,Completed,64.0,Online
+ORD0387,2025-01-05,C1100,Arjun,Tablet,Electronics,7.0,15999.0,111993.0,Delhi,Net Banking,Completed,65.0,ONLINE
+ORD0396,2025-04-05,C1092,Rohit,MONITOR,Electronics,8.0,12999.0,103992.0,Mumbai,Credit Card,Cancelled,56.0,Online
+ORD0285,2025-06-12,C1215,Meera,Laptop,electronics,4.0,65000.0,260000.0,Delhi,Cash,Completed,65.0,online
+ORD0126,2025-01-28,C1063,Vikram,MONITOR,Electronics,2.0,12999.0,25998.0,Mumbai,Cash,Completed,37.0,online
+ORD0303,2025-03-26,C1235,Pooja,webcam,Accessories,8.0,1299.0,10392.0,Pune,Credit Card,Completed,38.0,Online
+ORD0224,2025-06-13,C1003,Meera,webcam,Accessories,8.0,1299.0,10392.0,Jaipur,Cash,Cancelled,999.0,ONLINE
+ORD0419,2025-04-05,C1021,Pooja,Smartphone,Electronics,5.0,18000.0,90000.0,Kolkata,Cash,Pending,59.0,ONLINE
+ORD0220,2025-06-13,C1171,Pooja,MONITOR,Electronics,1.0,18999.0,18999.0,Jaipur,UPI,Completed,52.0,ONLINE
+ORD0130,2025-06-01,C1015,Neha,Printer,office,5.0,9999.0,49995.0,Jaipur,Cash,Completed,21.0,online
+ORD0421,2025-02-13,C1173,Rahul,Webcam,Accessories,4.0,2999.0,11996.0,Delhi,Credit Card,Completed,35.0,store
+ORD0290,2025-04-26,C1079,Anjali,Webcam,Accessories,6.0,1299.0,7794.0,Mumbai,Unknown,Completed,61.0,online
+ORD0445,2025-05-15,C1215,Amit,Printer,Office,3.0,6999.0,20997.0,Pune,Debit Card,Completed,48.0,store
+ORD0377,2025-04-25,C1046,Arjun,Keyboard,Accessories,4.0,3999.0,3996.0,Bangalore,Net Banking,Completed,42.0,Online
+ORD0292,2025-04-14,C1219,Anjali,mouse,Accessories,3.0,399.0,1197.0,Jaipur,UPI,Completed,26.0,Online
+ORD0356,2025-02-03,C1179,Meera,Tablet,Electronics,3.0,9999.0,29997.0,Mumbai,Cash,Pending,48.0,ONLINE
+ORD0108,2025-04-12,C1128,Rahul,USB CABLE,Accessories,7.0,499.0,3493.0,Kolkata,Credit Card,Cancelled,31.0,Store
+ORD0397,2025-02-20,C1068,Meera,Mouse,Accessories,3.0,999.0,11997.0,Mumbai,Unknown,Completed,50.0,Online
+ORD0341,2025-05-05,C1086,Arjun,monitor,electronics,3.0,8999.0,26997.0,Delhi,UPI,Completed,35.0,Store
+ORD0113,2025-01-25,C1081,Vikram,Tablet,Electronics,7.0,24999.0,174993.0,Chennai,Debit Card,Pending,61.0,store
+ORD0180,2025-01-05,C1095,Neha,Printer,office,4.0,9999.0,49995.0,Ahmedabad,Debit Card,Completed,64.0,Online
+ORD0308,2025-03-30,C1082,Amit,Monitor,Electronics,2.0,8999.0,17998.0,Pune,Cash,Completed,34.0,Store
+ORD0423,2025-03-12,C1058,Pooja,usb cable,accessories,6.0,299.0,11997.0,Kolkata,Net Banking,Completed,34.0,Store
+ORD0234,2025-03-10,C1127,Amit,Headphones,Accessories,5.0,2499.0,11997.0,Kolkata,Debit Card,Completed,37.0,store
+ORD0312,2025-06-02,C1158,Anjali,Webcam,accessories,2.0,1999.0,3998.0,Bangalore,Unknown,Completed,28.0,Online
+ORD0165,2025-06-13,C1151,Amit,monitor,electronics,3.0,18999.0,56997.0,Lucknow,UPI,Completed,25.0,ONLINE
+ORD0137,2025-01-05,C1093,Rohit,smartphone,Electronics,7.0,25000.0,175000.0,Pune,Cash,Pending,32.0,Store
+ORD0198,2025-05-21,C1234,Anjali,monitor,Electronics,7.0,18999.0,132993.0,Ahmedabad,UPI,Pending,46.0,ONLINE
+ORD0259,2025-01-16,C1071,Arjun,smartphone,Electronics,3.0,35000.0,105000.0,Bangalore,Credit Card,Pending,63.0,online
+ORD0233,2025-01-22,C1186,Karan,mouse,Accessories,7.0,599.0,11997.0,Lucknow,Credit Card,Cancelled,42.0,Store
+ORD0116,2025-06-18,C1124,Sneha,Smartphone,electronics,4.0,18000.0,72000.0,Lucknow,Debit Card,Completed,35.0,ONLINE
+ORD0121,2025-01-30,C1089,Vikram,Mouse,accessories,4.0,999.0,3996.0,Ahmedabad,Cash,Pending,60.0,online
+ORD0350,2025-01-30,C1201,Priya,USB CABLE,Accessories,2.0,299.0,598.0,Ahmedabad,Credit Card,Completed,34.0,ONLINE
+ORD0225,2025-02-24,C1231,Meera,SMARTPHONE,electronics,1.0,18000.0,18000.0,Delhi,UPI,Cancelled,35.0,ONLINE
+ORD0403,2025-06-17,C1097,Neha,Mouse,Accessories,100.0,599.0,1797.0,Chennai,Cash,Pending,51.0,store
+ORD0398,2025-04-05,C1233,Rahul,USB Cable,Accessories,7.0,499.0,3493.0,Lucknow,Cash,Cancelled,27.0,online
+ORD0128,2025-02-07,C1066,Sneha,headphones,Accessories,4.0,999.0,3996.0,Bangalore,UPI,Pending,58.0,store
+ORD0286,2025-04-18,C1126,Rahul,smartphone,Electronics,4.0,18000.0,72000.0,Chennai,UPI,Completed,32.0,ONLINE
+ORD0412,2025-01-12,C1179,Karan,WEBCAM,Accessories,7.0,1999.0,13993.0,Jaipur,Cash,Cancelled,55.0,ONLINE
+ORD0108,2025-02-14,C1068,Rahul,usb cable,Accessories,6.0,199.0,1194.0,Kolkata,Net Banking,Completed,65.0,Online
+ORD0371,2025-02-23,C1160,Meera,Monitor,Electronics,4.0,8999.0,35996.0,Unknown,Credit Card,Cancelled,59.0,Store
+ORD0379,2025-04-15,C1190,Anjali,Keyboard,Accessories,8.0,699.0,5592.0,Lucknow,Credit Card,Completed,37.0,ONLINE
+ORD0134,2025-03-28,C1174,Pooja,Mouse,Accessories,7.0,3999.0,4193.0,Pune,UPI,Cancelled,24.0,ONLINE
+ORD0453,2025-03-14,C1069,Amit,LAPTOP,Electronics,3.0,999.0,135000.0,Delhi,Credit Card,Completed,27.0,Online
+ORD0045,2025-02-15,C1206,Meera,SMARTPHONE,Electronics,7.0,18000.0,126000.0,Lucknow,Credit Card,Completed,25.0,store
+ORD0461,2025-06-26,C1097,Neha,printer,office,4.0,6999.0,27996.0,Delhi,Cash,Cancelled,46.0,ONLINE
+ORD0066,2025-02-19,C1076,Sneha,Webcam,Accessories,5.0,1299.0,6495.0,Chennai,UPI,Cancelled,52.0,Store
+ORD0284,2025-06-01,C1249,Anjali,keyboard,Accessories,8.0,999.0,7992.0,Lucknow,Credit Card,Pending,18.0,store
+ORD0086,2025-01-12,C1082,Meera,TABLET,Electronics,4.0,15999.0,63996.0,Kolkata,Cash,Cancelled,59.0,Store
+ORD0243,2025-04-05,C1101,Anjali,usb cable,accessories,4.0,299.0,1196.0,Delhi,Cash,Completed,36.0,store
+ORD0187,2025-03-16,C1011,Rohit,Tablet,electronics,6.0,9999.0,59994.0,Jaipur,Debit Card,Cancelled,48.0,Store
+ORD0384,2025-02-12,C1249,Karan,Webcam,Accessories,2.0,1299.0,2598.0,Mumbai,Credit Card,Cancelled,58.0,Store
+ORD0160,2025-06-30,C1115,Sneha,Smartphone,Electronics,5.0,25000.0,125000.0,Jaipur,Credit Card,Completed,26.0,Online
+ORD0013,2025-04-06,C1196,Amit,Webcam,Accessories,4.0,1299.0,5196.0,Pune,Cash,Completed,25.0,online
+ORD0036,2025-02-19,C1103,Neha,Keyboard,Unknown,1.0,1499.0,1499.0,Chennai,Debit Card,Cancelled,50.0,store
+ORD0029,2025-05-22,C1077,Arjun,USB Cable,Accessories,1.0,499.0,499.0,Chennai,UPI,Completed,65.0,ONLINE
+ORD0171,2025-04-05,C1132,Karan,Monitor,electronics,7.0,8999.0,62993.0,Hyderabad,Cash,Completed,35.0,store
+ORD0143,2025-02-26,C1210,Anjali,Headphones,Accessories,60.0,999.0,6993.0,Kolkata,UPI,Completed,50.0,online
+ORD0399,2025-03-16,C1035,Anjali,Tablet,electronics,4.0,24999.0,99996.0,Pune,Net Banking,Completed,60.0,Store
+ORD0343,2025-04-06,C1244,Rahul,Laptop,Electronics,1.0,3999.0,52000.0,Hyderabad,UPI,Cancelled,18.0,Store
+ORD0157,2025-02-19,C1159,Karan,Smartphone,electronics,3.0,18000.0,54000.0,Chennai,Cash,Completed,41.0,store
+ORD0096,2025-02-28,C1156,Neha,usb cable,Unknown,8.0,299.0,2392.0,Hyderabad,Net Banking,Cancelled,61.0,Store
+ORD0052,2025-06-09,C1137,Rahul,HEADPHONES,Accessories,8.0,1499.0,11992.0,Ahmedabad,UPI,Completed,59.0,store
+ORD0241,2025-01-10,C1203,Neha,Tablet,Electronics,7.0,24999.0,174993.0,Hyderabad,Debit Card,Pending,59.0,ONLINE
+ORD0379,2025-06-10,C1158,Arjun,Headphones,accessories,6.0,999.0,5994.0,Ahmedabad,Net Banking,Cancelled,22.0,online
+ORD0179,2025-04-11,C1158,Meera,Monitor,Electronics,6.0,8999.0,53994.0,Pune,Net Banking,Completed,50.0,ONLINE
+ORD0042,2025-04-24,C1173,Sneha,MONITOR,Electronics,8.0,12999.0,103992.0,Bangalore,UPI,Cancelled,50.0,ONLINE
+ORD0153,2025-04-05,C1112,Vikram,MONITOR,electronics,5.0,8999.0,44995.0,Pune,Credit Card,Completed,150.0,store
+ORD0422,2025-05-31,C1052,Karan,Monitor,Electronics,7.0,12999.0,90993.0,Mumbai,UPI,Pending,36.0,ONLINE
+ORD0207,2025-01-12,C1103,Anjali,printer,Office,1.0,6999.0,6999.0,Hyderabad,UPI,Pending,50.0,online
+ORD0283,2025-01-23,C1142,Anjali,Mouse,accessories,5.0,599.0,2995.0,Hyderabad,Debit Card,Pending,37.0,ONLINE
+ORD0255,2025-01-30,C1069,Karan,Printer,Office,3.0,14999.0,29998.0,Delhi,Cash,Pending,31.0,store
+ORD0413,2025-07-03,C1123,Sneha,Smartphone,electronics,7.0,18000.0,126000.0,Ahmedabad,Net Banking,Completed,34.0,Store
+ORD0005,2025-06-08,C1227,Neha,webcam,Accessories,5.0,2999.0,14995.0,Mumbai,UPI,Cancelled,32.0,online
+ORD0257,2025-06-06,C1162,Vikram,usb cable,Unknown,6.0,499.0,11997.0,Bangalore,Credit Card,Completed,31.0,Online
+ORD0449,2025-04-21,C1205,Rohit,printer,Office,5.0,6999.0,34995.0,Lucknow,Debit Card,Pending,44.0,ONLINE
+ORD0101,2025-05-24,C1084,Pooja,printer,Office,1.0,14999.0,14999.0,Mumbai,Cash,Cancelled,37.0,store
+ORD0242,2025-05-19,C1085,Vikram,keyboard,Accessories,7.0,1499.0,10493.0,Mumbai,Net Banking,Cancelled,40.0,Online
+ORD0430,2025-01-11,C1218,Anjali,USB Cable,Accessories,1.0,499.0,499.0,Pune,Cash,Pending,35.0,store
+ORD0214,2025-05-03,C1235,Sneha,keyboard,accessories,2.0,1499.0,2998.0,Hyderabad,Net Banking,Cancelled,36.0,store
+ORD0172,2025-01-13,C1075,Vikram,KEYBOARD,Accessories,4.0,699.0,2097.0,Bangalore,Debit Card,Pending,64.0,online
+ORD0099,2025-02-06,C1194,Sneha,SMARTPHONE,Electronics,8.0,12000.0,96000.0,Pune,UPI,Completed,43.0,Online
+ORD0293,2025-02-03,C1051,Vikram,Laptop,Electronics,1.0,52000.0,52000.0,Mumbai,Net Banking,Pending,34.0,Online
+ORD0216,2025-01-12,C1145,Sneha,monitor,Electronics,6.0,12999.0,77994.0,Unknown,Net Banking,Pending,42.0,store
+ORD0062,2025-02-18,C1022,Sneha,WEBCAM,accessories,1.0,2999.0,2999.0,Lucknow,Credit Card,Cancelled,48.0,store
+ORD0048,2025-03-23,C1229,Karan,Keyboard,Accessories,5.0,999.0,4995.0,Bangalore,Credit Card,Completed,62.0,Store
+ORD0268,2025-06-14,C1174,Amit,Headphones,Accessories,7.0,1499.0,10493.0,Ahmedabad,UPI,Pending,59.0,Store
+ORD0328,2025-04-05,C1211,Anjali,MONITOR,Electronics,4.0,12999.0,51996.0,Mumbai,UPI,Pending,41.0,store
+ORD0201,2025-05-25,C1015,Karan,HEADPHONES,Accessories,7.0,999.0,27993.0,Chennai,UPI,Completed,34.0,Online
+ORD0447,2025-05-04,C1139,Sneha,Tablet,electronics,5.0,15999.0,79995.0,Chennai,Debit Card,Completed,34.0,Store
+ORD0028,2025-03-31,C1226,Priya,keyboard,accessories,5.0,699.0,3495.0,Chennai,Unknown,Completed,52.0,online
+ORD0231,2025-04-03,C1195,Rohit,Laptop,Electronics,5.0,72000.0,360000.0,Mumbai,Credit Card,Completed,46.0,ONLINE
+ORD0261,2025-04-05,C1117,Anjali,Tablet,Electronics,5.0,24999.0,124995.0,Delhi,UPI,Cancelled,47.0,online
+ORD0289,2025-05-30,C1028,Amit,Smartphone,Electronics,4.0,18000.0,11997.0,Jaipur,Cash,Cancelled,44.0,Online
+ORD0163,2025-05-22,C1147,Neha,PRINTER,Office,1.0,9999.0,9999.0,Bangalore,Net Banking,Completed,22.0,online
+ORD0426,2025-04-08,C1163,Sneha,smartphone,electronics,5.0,12000.0,60000.0,Kolkata,Debit Card,Pending,52.0,Online
+ORD0139,2025-06-27,C1198,Pooja,headphones,Accessories,3.0,3999.0,4497.0,Jaipur,UPI,Completed,41.0,Store
+ORD0063,2025-03-17,C1057,Vikram,printer,office,1.0,6999.0,6999.0,Ahmedabad,Debit Card,Completed,53.0,ONLINE
+ORD0136,2025-06-02,C1182,Priya,Mouse,Accessories,7.0,399.0,11997.0,Kolkata,Debit Card,Completed,26.0,ONLINE
+ORD0129,2025-05-25,C1165,Arjun,Printer,Office,8.0,14999.0,119992.0,Pune,Credit Card,Completed,22.0,store
+ORD0477,2025-06-14,C1077,Rahul,PRINTER,Office,2.0,14999.0,29998.0,Delhi,Debit Card,Cancelled,42.0,store
+ORD0009,2025-02-05,C1064,Meera,Printer,Office,3.0,9999.0,29997.0,Ahmedabad,Cash,Pending,43.0,online
+ORD0327,2025-05-26,C1008,Amit,tablet,Electronics,3.0,24999.0,74997.0,Delhi,Credit Card,Completed,47.0,Online
+ORD0464,2025-03-24,C1185,Priya,LAPTOP,Electronics,6.0,52000.0,312000.0,Lucknow,Cash,Completed,53.0,Store
+ORD0065,2025-05-18,C1244,Meera,monitor,Electronics,2.0,18999.0,37998.0,Hyderabad,Cash,Cancelled,64.0,ONLINE
+ORD0301,2025-06-28,C1092,Pooja,Keyboard,Accessories,6.0,1499.0,8994.0,Pune,Net Banking,Pending,27.0,ONLINE
+ORD0015,2025-03-09,C1136,Pooja,HEADPHONES,Accessories,8.0,1499.0,11992.0,Lucknow,Credit Card,Cancelled,37.0,store
+ORD0157,2025-01-09,C1033,Priya,laptop,Electronics,3.0,72000.0,216000.0,Pune,Debit Card,Completed,42.0,Online
+ORD0041,2025-05-21,C1214,Rahul,USB Cable,accessories,5.0,299.0,1495.0,Hyderabad,Cash,Completed,55.0,ONLINE
+ORD0380,2025-05-14,C1018,Karan,webcam,accessories,4.0,1299.0,5196.0,Lucknow,Net Banking,Completed,23.0,online
+ORD0469,2025-05-13,C1025,Priya,mouse,Accessories,2.0,399.0,798.0,Kolkata,Credit Card,Pending,51.0,Store
+ORD0404,2025-05-04,C1228,Pooja,Monitor,Electronics,6.0,12999.0,77994.0,Bangalore,Cash,Pending,32.0,Online
+ORD0217,2025-03-26,C1059,Vikram,mouse,accessories,3.0,399.0,1197.0,Lucknow,Debit Card,Cancelled,49.0,store
+ORD0280,2025-05-11,C1001,Rahul,Smartphone,Electronics,2.0,18000.0,36000.0,Delhi,Unknown,Cancelled,42.0,Store
+ORD0435,2025-02-16,C1147,Amit,tablet,Electronics,5.0,15999.0,79995.0,Chennai,Credit Card,Pending,45.0,store
+ORD0431,2025-02-26,C1193,Pooja,headphones,Accessories,5.0,3999.0,19995.0,Lucknow,Cash,Completed,52.0,Online
+ORD0338,2025-03-27,C1168,Priya,webcam,accessories,3.0,2999.0,8997.0,Unknown,Debit Card,Completed,39.0,online
+ORD0237,2025-04-06,C1243,Meera,headphones,accessories,5.0,2499.0,12495.0,Pune,Credit Card,Completed,38.0,online
+ORD0208,2025-06-03,C1198,Arjun,Keyboard,Accessories,6.0,1499.0,8994.0,Chennai,Credit Card,Cancelled,51.0,Store
+ORD0213,2025-02-18,C1206,Pooja,usb cable,accessories,1.0,199.0,199.0,Hyderabad,Debit Card,Cancelled,18.0,Store
+ORD0296,2025-02-08,C1009,Pooja,mouse,Accessories,5.0,599.0,2995.0,Chennai,Cash,Completed,53.0,store
+ORD0458,2025-06-12,C1112,Neha,Keyboard,Accessories,2.0,699.0,1398.0,Chennai,Net Banking,Completed,43.0,Store
+ORD0252,2025-03-15,C1036,Amit,Webcam,accessories,4.0,1999.0,99999.0,Ahmedabad,UPI,Completed,40.0,Online
+ORD0167,2025-06-10,C1078,Pooja,Keyboard,Accessories,5.0,699.0,3495.0,Bangalore,Unknown,Pending,27.0,Store
+ORD0304,2025-01-29,C1217,Karan,Laptop,Electronics,3.0,52000.0,156000.0,Pune,Unknown,Pending,24.0,online
+ORD0270,2025-05-31,C1187,Vikram,Smartphone,electronics,3.0,12000.0,36000.0,Pune,Credit Card,Pending,42.0,Online
+ORD0170,2025-04-19,C1089,Meera,Keyboard,Accessories,2.0,699.0,1398.0,Delhi,UPI,Completed,20.0,online
+ORD0162,2025-06-29,C1164,Amit,Mouse,Accessories,3.0,999.0,2997.0,Hyderabad,UPI,Pending,26.0,Store
+ORD0044,2025-06-11,C1148,Sneha,SMARTPHONE,electronics,2.0,35000.0,280000.0,Kolkata,Credit Card,Pending,59.0,Online
+ORD0402,2025-04-27,C1226,Rahul,Monitor,Electronics,7.0,12999.0,90993.0,Pune,UPI,Cancelled,51.0,online
+ORD0191,2025-04-17,C1226,Amit,Webcam,accessories,3.0,1299.0,1299.0,Jaipur,Credit Card,Cancelled,36.0,Online
+ORD0310,2025-04-05,C1140,Vikram,Tablet,electronics,8.0,15999.0,127992.0,Ahmedabad,Credit Card,Pending,46.0,Online
+ORD0260,2025-02-06,C1148,Arjun,Keyboard,Accessories,7.0,999.0,6993.0,Unknown,Cash,Completed,22.0,Online
+ORD0106,2025-02-22,C1018,Karan,keyboard,Accessories,3.0,1499.0,4497.0,Hyderabad,Credit Card,Cancelled,27.0,ONLINE
+ORD0054,2025-05-01,C1005,Meera,Tablet,electronics,5.0,9999.0,49995.0,Hyderabad,UPI,Completed,59.0,Online
+ORD0002,2025-03-01,C1130,Pooja,Laptop,Electronics,2.0,52000.0,104000.0,Hyderabad,Net Banking,Completed,32.0,store
+ORD0442,2025-05-31,C1134,Anjali,MOUSE,Accessories,8.0,599.0,4792.0,Bangalore,UPI,Pending,64.0,Store
+ORD0386,2025-01-14,C1046,Rohit,Laptop,Electronics,2.0,45000.0,90000.0,Hyderabad,Debit Card,Completed,42.0,store
+ORD0050,2025-04-08,C1123,Rahul,USB Cable,accessories,1.0,499.0,499.0,Kolkata,Cash,Pending,65.0,ONLINE
+ORD0420,2025-06-13,C1127,Anjali,Mouse,Accessories,1.0,399.0,399.0,Lucknow,Debit Card,Pending,20.0,ONLINE
+ORD0081,2025-06-11,C1156,Sneha,printer,office,2.0,6999.0,13998.0,Lucknow,UPI,Pending,44.0,Online
+ORD0206,2025-06-19,C1108,Pooja,Keyboard,Accessories,2.0,699.0,1398.0,Hyderabad,UPI,Completed,56.0,Online
+ORD0035,2025-01-28,C1098,Rahul,MOUSE,Accessories,3.0,999.0,2997.0,Hyderabad,Cash,Cancelled,37.0,Store
+ORD0264,2025-02-21,C1177,Amit,Printer,Office,1.0,9999.0,9999.0,Chennai,UPI,Cancelled,41.0,online
+ORD0428,2025-06-24,C1239,Sneha,KEYBOARD,Accessories,5.0,999.0,3495.0,Hyderabad,Credit Card,Cancelled,33.0,online
+ORD0367,2025-02-18,C1184,Neha,Tablet,electronics,4.0,15999.0,63996.0,Delhi,Net Banking,Completed,46.0,store
+ORD0092,2025-06-08,C1175,Sneha,HEADPHONES,Accessories,2.0,3999.0,7998.0,Bangalore,Credit Card,Completed,42.0,online
+ORD0340,2025-01-14,C1223,Amit,webcam,Accessories,5.0,1999.0,9995.0,Pune,Cash,Pending,47.0,Store
+ORD0474,2025-01-02,C1077,Sneha,webcam,accessories,3.0,1999.0,5997.0,Unknown,Debit Card,Pending,50.0,ONLINE
+ORD0053,2025-01-13,C1067,Vikram,Headphones,Accessories,8.0,1499.0,11992.0,Jaipur,Debit Card,Cancelled,42.0,online
+ORD0346,2025-02-03,C1055,Meera,Keyboard,Accessories,4.0,1499.0,5996.0,Lucknow,Credit Card,Completed,41.0,Online
+ORD0265,2025-01-14,C1102,Arjun,Smartphone,Electronics,4.0,18000.0,108000.0,Hyderabad,Cash,Cancelled,23.0,Online
+ORD0242,2025-04-21,C1028,Rahul,Laptop,electronics,7.0,65000.0,455000.0,Hyderabad,Net Banking,Cancelled,51.0,ONLINE
+ORD0014,2025-03-03,C1225,Pooja,Mouse,Accessories,4.0,399.0,1596.0,Jaipur,UPI,Completed,52.0,Store
+ORD0316,2025-04-05,C1227,Vikram,Smartphone,Electronics,7.0,18000.0,126000.0,Jaipur,UPI,Cancelled,46.0,store
+ORD0089,2025-05-05,C1224,Karan,Tablet,Electronics,6.0,24999.0,149994.0,Mumbai,Credit Card,Cancelled,61.0,online
+ORD0388,2025-05-09,C1028,Rohit,Laptop,Electronics,2.0,65000.0,130000.0,Mumbai,Debit Card,Completed,46.0,store
+ORD0274,2025-01-16,C1243,Vikram,Mouse,Accessories,4.0,399.0,1596.0,Unknown,Cash,Completed,62.0,store
+ORD0329,2025-05-02,C1151,Karan,USB Cable,accessories,8.0,199.0,1592.0,Bangalore,Debit Card,Cancelled,62.0,Online
+ORD0460,2025-04-02,C1166,Amit,Monitor,Electronics,1.0,8999.0,8999.0,Jaipur,Credit Card,Cancelled,53.0,online
+ORD0135,2025-06-18,C1247,Pooja,tablet,electronics,5.0,15999.0,79995.0,Mumbai,Net Banking,Cancelled,27.0,online
+ORD0307,2025-01-09,C1047,Pooja,USB Cable,Accessories,7.0,499.0,3493.0,Hyderabad,Net Banking,Completed,49.0,Store
+ORD0320,2025-03-08,C1082,Meera,Keyboard,Accessories,3.0,1499.0,4497.0,Kolkata,Net Banking,Completed,53.0,online
+ORD0244,2025-03-31,C1080,Neha,SMARTPHONE,Electronics,2.0,18000.0,36000.0,Lucknow,Cash,Cancelled,48.0,Online
+ORD0055,2025-01-06,C1160,Amit,laptop,Electronics,4.0,52000.0,208000.0,Jaipur,UPI,Pending,31.0,store
+ORD0364,2025-02-27,C1217,Anjali,Monitor,Unknown,6.0,8999.0,53994.0,Ahmedabad,Net Banking,Completed,63.0,online
+ORD0051,2025-02-26,C1070,Vikram,USB CABLE,Accessories,4.0,299.0,1196.0,Kolkata,Debit Card,Cancelled,61.0,store
+ORD0457,2025-01-11,C1191,Karan,Monitor,electronics,3.0,18999.0,56997.0,Jaipur,Debit Card,Pending,41.0,Online
+ORD0175,2025-03-09,C1187,Neha,SMARTPHONE,electronics,7.0,18000.0,126000.0,Delhi,Cash,Completed,54.0,ONLINE
+ORD0446,2025-04-24,C1035,Meera,webcam,Accessories,5.0,2999.0,14995.0,Ahmedabad,Cash,Cancelled,65.0,ONLINE
+ORD0190,2025-02-21,C1194,Rohit,Printer,office,75.0,14999.0,119992.0,Delhi,UPI,Cancelled,54.0,Store
+ORD0072,2025-01-20,C1041,Rahul,KEYBOARD,accessories,3.0,1499.0,4497.0,Ahmedabad,Cash,Cancelled,20.0,Store
+ORD0188,2025-06-28,C1070,Amit,Keyboard,Accessories,5.0,1499.0,7495.0,Ahmedabad,Credit Card,Pending,21.0,ONLINE
+ORD0170,2025-04-17,C1124,Anjali,laptop,electronics,3.0,72000.0,216000.0,Ahmedabad,Credit Card,Cancelled,63.0,online
+ORD0059,2025-02-15,C1188,Karan,Printer,Office,3.0,9999.0,29997.0,Lucknow,Cash,Completed,45.0,ONLINE
+ORD0049,2025-04-15,C1085,Karan,KEYBOARD,accessories,2.0,999.0,1998.0,Delhi,Credit Card,Completed,44.0,store
+ORD0345,2025-06-25,C1035,Neha,WEBCAM,accessories,6.0,1999.0,11994.0,Hyderabad,Credit Card,Completed,43.0,Online
+ORD0253,2025-04-09,C1247,Karan,PRINTER,Unknown,3.0,6999.0,20997.0,Jaipur,Cash,Cancelled,46.0,store
+ORD0022,2025-04-15,C1125,Anjali,smartphone,electronics,4.0,18000.0,72000.0,Delhi,Credit Card,Completed,18.0,store
+ORD0314,2025-01-14,C1093,Rahul,TABLET,Electronics,4.0,9999.0,79992.0,Chennai,Net Banking,Completed,30.0,Online
+ORD0161,2025-04-24,C1023,Arjun,Printer,Office,3.0,14999.0,44997.0,Pune,UPI,Pending,42.0,online
+ORD0277,2025-01-04,C1182,Amit,Mouse,Accessories,3.0,399.0,1197.0,Jaipur,Debit Card,Pending,51.0,online
+ORD0444,2025-03-09,C1159,Amit,Webcam,Accessories,2.0,1299.0,2598.0,Kolkata,Debit Card,Pending,33.0,online
+ORD0192,2025-03-27,C1073,Anjali,LAPTOP,Electronics,5.0,45000.0,225000.0,Lucknow,Cash,Cancelled,30.0,Online
+ORD0294,2025-06-15,C1114,Amit,Laptop,electronics,2.0,52000.0,104000.0,Mumbai,UPI,Completed,21.0,Store
+ORD0414,2025-05-14,C1002,Vikram,laptop,Electronics,4.0,45000.0,45000.0,Pune,Cash,Cancelled,24.0,Store
+ORD0344,2025-02-03,C1027,Vikram,Keyboard,Accessories,50.0,999.0,5994.0,Mumbai,UPI,Cancelled,36.0,store
+ORD0258,2025-03-13,C1153,Karan,usb cable,accessories,6.0,499.0,2994.0,Chennai,Debit Card,Pending,42.0,ONLINE
+ORD0309,2025-03-07,C1202,Priya,Keyboard,Accessories,2.0,999.0,11997.0,Kolkata,Cash,Cancelled,44.0,Store
+ORD0150,2025-03-27,C1035,Rahul,Keyboard,Accessories,2.0,1499.0,2998.0,Pune,Credit Card,Completed,61.0,store
+ORD0131,2025-01-24,C1158,Pooja,MOUSE,accessories,2.0,999.0,1998.0,Ahmedabad,Net Banking,Completed,65.0,Online
+ORD0152,2025-04-12,C1209,Karan,MONITOR,electronics,5.0,18999.0,94995.0,Delhi,Credit Card,Cancelled,40.0,Online
+ORD0360,2025-05-10,C1218,Anjali,LAPTOP,Electronics,1.0,52000.0,52000.0,Mumbai,Cash,Cancelled,33.0,online
+ORD0100,2025-04-05,C1173,Meera,Mouse,Accessories,2.0,599.0,1198.0,Kolkata,Debit Card,Completed,61.0,Store
+ORD0373,2025-05-14,C1028,Rahul,MOUSE,Accessories,7.0,3999.0,2793.0,Delhi,UPI,Pending,35.0,Store
+ORD0088,2025-01-20,C1121,Rohit,Headphones,Accessories,7.0,3999.0,10493.0,Kolkata,UPI,Completed,39.0,ONLINE
+ORD0459,2025-06-26,C1153,Amit,Laptop,Electronics,5.0,72000.0,72000.0,Hyderabad,Credit Card,Completed,23.0,ONLINE
+ORD0331,2025-01-03,C1122,Amit,webcam,Accessories,1.0,2999.0,2999.0,Delhi,Credit Card,Cancelled,56.0,online
+ORD0215,2025-03-08,C1093,Karan,PRINTER,office,6.0,9999.0,11997.0,Mumbai,Cash,Completed,38.0,Store
+ORD0467,2025-02-26,C1156,Meera,Mouse,Accessories,1.0,599.0,599.0,Hyderabad,Cash,Completed,23.0,store
+ORD0122,2025-06-03,C1015,Rahul,laptop,electronics,4.0,72000.0,288000.0,Hyderabad,Credit Card,Completed,34.0,online
+ORD0021,2025-03-05,C1224,Priya,HEADPHONES,Accessories,5.0,3999.0,19995.0,Mumbai,UPI,Cancelled,52.0,Online
+ORD0189,2025-01-26,C1106,Neha,KEYBOARD,Accessories,4.0,699.0,2796.0,Bangalore,UPI,Pending,28.0,store
+ORD0107,2025-02-03,C1139,Rohit,laptop,Electronics,5.0,52000.0,260000.0,Delhi,Credit Card,Completed,40.0,Store
+ORD0271,2025-01-07,C1218,Arjun,Keyboard,Accessories,5.0,1499.0,7495.0,Lucknow,Net Banking,Pending,30.0,store
+ORD0349,2025-01-26,C1170,Karan,Mouse,Accessories,7.0,999.0,6993.0,Ahmedabad,Credit Card,Completed,24.0,ONLINE
+ORD0436,2025-02-08,C1122,Rahul,keyboard,accessories,3.0,1499.0,4497.0,Jaipur,Credit Card,Completed,58.0,ONLINE
+ORD0103,2025-02-09,C1227,Vikram,Monitor,electronics,7.0,18999.0,132993.0,Ahmedabad,Cash,Cancelled,20.0,online
